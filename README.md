@@ -8,13 +8,11 @@ Class notes and summaries
 Lab activities and exercises
 Mini-projects
 Reflection papers
-
 Student Information
-Name: ADAMAH BELEN
+Name: Belen Adamah
 Course/Section: BSIT 4-J
 Instructor: JENKIELYN TORRES
 School Year: 2026-2027
-
 Repository Structure
 cloud-computing-course/
 
