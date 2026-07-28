@@ -13,8 +13,8 @@ This repository serves as my organized workspace for all course requirements, in
 
 ## Student Information
 
-- **Name:** Belen Adamah
-- **Course/Section:** BSIT 4-I
+- **Name:** BELEN ADAMAH
+- **Course/Section:** BSIT 4-J
 - **Instructor:** JENKIELYN TORRES
 - **School Year:** 2026–2027
 
